@@ -113,7 +113,7 @@ Para este proyecto se evaluará de la siguiente forma:
 
 - Para el tema del trabajo en equipo, deberán compartir evidencia y anécdotas de los retos que enfrentaron. 
 - Para la actividad de `una aguja en un pajar`, serán 7 participaciones por lograr resolverla con comandos y 3 participaciones si el comando que utilizan es creativo y/o complejo. 
-- Para la actividad de `una aguja en un pajar` sólo se darán participaciones al miembro del equipo que haya logrado resolverlo. Se dará a todos si se comparte evidencia de la participación de todos para resolverlo. 
+- Para la actividad de `una aguja en un pajar` **sólo se darán participaciones al miembro del equipo que haya logrado resolverlo**. Se dará a todos si se comparte evidencia de la participación de todos para resolverlo. 
 - Las participaciones son adicionales al score que tengan en el proyecto.  
 
  
