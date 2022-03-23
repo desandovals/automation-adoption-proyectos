@@ -98,12 +98,16 @@ Para este proyecto se evaluará de la siguiente forma:
 
 ## El buen trabajo se recompensa
 
+<div align="center">
+
 | Rubro                 | Puntaje extra     |
 | --------------------- | ----------------- |
 | Cumplimiento 100%     | 3 participaciones |
 | Una aguja en un pajar | 7 participaciones | 
 | Creatividad           | 3 participaciones |
 | Trabajo en equipo     | 5 participaciones |
+ 
+ </div align="center">
 
 ### Notas
 
