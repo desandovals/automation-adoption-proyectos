@@ -4,7 +4,7 @@ Este será el último proyecto que trabajemos durante este curso. Les deseo éxi
 
 ## Repositorio
 
-Este proyecto será GRUPAL a diferencia de los demás, por lo que el equipo único que trabajará en él es el grupo en el que se encuentren actualmente. 
+Este proyecto será **GRUPAL** a diferencia de los demás, por lo que el equipo único que trabajará en él es el grupo en el que se encuentren actualmente. 
 
 Por cada grupo, deberán crear un repositorio público donde irán depositando el desarrollo de su proyecto. 
 
@@ -57,7 +57,7 @@ Cada integrante del equipo deberá elegir una carpeta de forma totalmente aleato
 - ¿Te divertiste?
 - ¿Qué cosas NO te gustaron? 
 - ¿Vovlerías a tomar un curso similar? 
-- Comentario de libre elección. 
+- Comentario libre.
 
 La intención de esta sección es que puedan compartir sus comentarios de forma anónima, por lo que queda **PROHIBIDO** compartir con otros compañeros qué carpeta eligieron. 
 
@@ -92,7 +92,8 @@ El log generado por el programa, debe contener la siguiente información:
 
 Generar una función del programa, que permita decidir al usuario si quiere o no que se muestren en pantalla el contenido de los comentarios que se encuentran dentro de los archivos `sinceramente.txt`. 
 
-En caso de que el profe eliga que si, ir mostrando el contenido de los archivos uno a uno, con intervalos de 15 segundos entre uno y otro. En caso de que se eliga que no, simplemente salir del programa. 
+- En caso de que el profe eliga que si, ir mostrando el contenido de los archivos uno a uno, con intervalos de 15 segundos entre uno y otro. 
+- En caso de que se eliga que no, simplemente salir del programa. 
 
 ## Forma de evaluación: 
 
