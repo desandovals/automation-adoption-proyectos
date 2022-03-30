@@ -10,7 +10,9 @@ Por cada grupo, deberán crear un repositorio público donde irán depositando e
 
 Nomenclatura de nombre del repositorio: 
 
+```
 proyecto-final-grupo-## 
+```
 
 ## ¿Líderes?
 
