@@ -16,7 +16,7 @@ proyecto-final-grupo-##
 
 ## ¿Líderes?
 
-Como grupo, deberán designar un único líder, que será el responsable de lo siguiente: 
+Como grupo, deberán designar **un único líder**, que será el responsable de lo siguiente: 
 
 - Organizar actividades (salas de chat, meets, etc).  
 - Hacer la entrega formal del proyecto en tiempo y forma. 
