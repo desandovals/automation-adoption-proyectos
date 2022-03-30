@@ -80,10 +80,14 @@ El log generado por el programa, debe contener la siguiente información:
 
 1. El script que desarrollen deberá estar almacenado en una carpeta de nombre `script` dentro de su repositorio. 
 2.  Deberán crear un README en la raíz de su repositorio, que contenga la siguiente información: 
-- **Título:** Proyecto final
-- **Tabla con dos columnas:** La primer columna deberán listarse quienes participaron en el proyecto y la segunda columna la descripción de su participación en el mismo. 
-- **Los líderes** deberán estar en el último renglón. 
-- **Evidencias:** Pantallazos de todo aquello que se solicite tener evidencia como sustento.  
+
+<div align="center">
+
+&emsp; - **Título:** Proyecto final
+&emsp; - **Tabla con dos columnas:** La primer columna deberán listarse quienes participaron en el proyecto y la segunda columna la descripción de su participación en el mismo. 
+&emsp; - **Los líderes** deberán estar en el último renglón. 
+&emsp; - **Evidencias:** Pantallazos de todo aquello que se solicite tener evidencia como sustento.  
+
 3. TODOS, sin excepción, deberán tener registrados commit en el repositorio de github para tener participación en el proyecto. No importando si aportaron al readme o al script. 
 
 ## Consintiendo al profe (opcional)
