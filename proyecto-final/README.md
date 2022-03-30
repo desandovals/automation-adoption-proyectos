@@ -28,14 +28,14 @@ Deberán crear un programa, haciendo uso de variables, funciones, condicionales 
 
 1. Crear un bucket de GCS que tenga un rango de nombre del 04 al 07. Recuerden que no deben repetirse, por lo cual el líder tendrá que comunicarse con líderes de los otros 3 grupos para elegir cada uno el bucket que creará. 
 
+**Nota:** Si adjuntan evidencia de la comunicación que hubo, los líderes serán acreedores a 3 participaciones adicionales. 
+
 **Características del bucket:**
 
 - Multiregional
 - Para consulta de acceso frecuente
 - Tipo de acceso: Uniform
 - Etiquetas: grupo:grupo-## ; proyecto:final
-
-**Nota:** Si adjuntan evidencia de la comunicación que hubo, los líderes serán acreedores a 3 participaciones adicionales. 
 
 2. Dentro del GCS, crear una carpeta con la nomenclatura `grupo-##`. 
 3. Crear dentro 100 carpetas con la nomenclatura `carpeta-###`. 
@@ -104,6 +104,7 @@ Para este proyecto se evaluará de la siguiente forma:
 | ¡¡ A programar !!     | 7 participaciones | 
 | Consintiendo al profe | 6 participaciones |
 | Trabajo en equipo     | 10 participaciones|
+| Evidencia líderes     | 3 participaciones |
  
  </div align="center">
 
