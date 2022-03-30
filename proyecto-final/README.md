@@ -32,10 +32,17 @@ Deberán crear un programa, haciendo uso de variables, funciones, condicionales 
 
 **Características del bucket:**
 
-- Multiregional
-- Para consulta de acceso frecuente
-- Tipo de acceso: Uniform
-- Etiquetas: grupo:grupo-## ; proyecto:final
+<div align="center">
+
+| Rubro             | Valor                 |
+| :---------------: | :-------------------: |
+| Store             | Multiregional         |
+| Storage Class     | Acceso frecuente      |
+| Tipo de acceso    | Uniform               |
+| Etiqueta 1        | grupo:grupo-##        |
+| Etiqueta 2        | proyecto:golondrinas  |
+
+</div align="center">
 
 2. Dentro del GCS, crear una carpeta con la nomenclatura `grupo-##`. 
 3. Crear dentro 100 carpetas con la nomenclatura `carpeta-###`. 
