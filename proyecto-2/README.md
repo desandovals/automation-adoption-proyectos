@@ -10,7 +10,7 @@ Para el presente documento deberán crear un repositorio **privado** en GitHub, 
  
 #### Permisos
 
-Deberán añadir a todos los integrantes del equipo y al usuario `desandovals`. Dado que será privado, no podrán verlo ni colaborar, hasta que no hayan aceptado la invitación para colaborar en el mismo. 
+Deberán añadir a todos los integrantes del equipo y al usuario `desandovals` y `dfmonjarazf`. Dado que será privado, no podrán verlo ni colaborar, hasta que no hayan aceptado la invitación para colaborar en el mismo. 
 
 #### ¿Saben guardar un secreto? 
 
@@ -87,9 +87,9 @@ Nuestros compañeros de Seguridad están realizando una auditoría sobre la infr
 
 Para este proyecto se evaluará de la siguiente forma: 
 
-- Repositorio: 15 % 
-- Una aguja en un pajar: 60 %
-- Problemas: 25 %
+- Repositorio: 1.5 puntos 
+- Una aguja en un pajar: 6 puntos
+- Problemas: 2.5 puntos
 
 ### Nota
 
@@ -102,19 +102,19 @@ Para este proyecto se evaluará de la siguiente forma:
 
 | Rubro                 | Puntaje extra     |
 | --------------------- | ----------------- |
-| Cumplimiento 100%     | 3 participaciones |
-| Una aguja en un pajar | 7 participaciones | 
-| Creatividad           | 3 participaciones |
-| Trabajo en equipo     | 5 participaciones |
+| Cumplimiento 100%     | 3 |
+| Una aguja en un pajar | 7 | 
+| Creatividad           | 3 |
+| Trabajo en equipo     | 5 |
  
  </div align="center">
 
 ### Notas
 
 - Para el tema del trabajo en equipo, deberán compartir evidencia y anécdotas de los retos que enfrentaron. 
-- Para la actividad de `una aguja en un pajar`, serán 7 participaciones por lograr resolverla con comandos y 3 participaciones si el comando que utilizan es creativo y/o complejo. 
+- Para la actividad de `una aguja en un pajar`, serán 7 puntos por lograr resolverla con comandos y 3 puntos si el comando que utilizan es creativo y/o complejo. 
 - Para la actividad de `una aguja en un pajar` **sólo se darán participaciones al miembro del equipo que haya logrado resolverlo**. Se dará a todos si se comparte evidencia de la participación de todos para resolverlo. 
-- Las participaciones son adicionales al score que tengan en el proyecto.  
+- Los puntos son adicionales al score que tengan en el proyecto.  
 
  
 
