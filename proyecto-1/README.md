@@ -21,7 +21,7 @@ grupo-01-avengers
 
 ## 2. Dar permisos
 
-Asignar los usuarios que trabajarán en él, incluyendo el usuario de un servidor `desandovals`. 
+Asignar los usuarios que trabajarán en él, incluyendo los usuarios `desandovals`, `dfmonjarazf` y `eczepedah`
 
 ## 3. Compartir el repositorio
 
@@ -61,6 +61,6 @@ De forma adicional, les comparto una tabla en la que ustedes podrán ganar punto
 
 </div>
 
-Para el tema del trabajo en equipo, deberán compartir evidencia y anécdotas de los retos que enfrentaron. Aquellos que sean sobresalientes podrán ganar las participaciones que se indican en la tabla. 
+Para el tema del trabajo en equipo, deberán compartir evidencia y anécdotas de los retos que enfrentaron. Aquellos que sean sobresalientes podrán ganar los puntos que se indican en la tabla. 
 
 *Las participaciones son adicionales al score que tengan en el proyecto* 
