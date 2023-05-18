@@ -53,11 +53,11 @@ De forma adicional, les comparto una tabla en la que ustedes podrán ganar punto
 <div align="center">
 
 | Rubro             | Puntaje extra     |
-| ----------------- | ----------------- |
-| Creatividad       | 3 participaciones |
-| Trabajo en equipo | 5 particioaciones |
-| Innovación        | 3 participaciones |
-| Complejidad       | 3 participaciones |
+| ----------------- | :---------------: |
+| Creatividad       | 3  |
+| Trabajo en equipo | 5  |
+| Innovación        | 3  |
+| Complejidad       | 3  |
 
 </div>
 
