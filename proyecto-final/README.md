@@ -99,28 +99,28 @@ Generar una función del programa, que permita decidir al usuario si quiere o no
 
 Para este proyecto se evaluará de la siguiente forma: 
 
-- Repositorio: 15 % 
-- ¡¡A programar!!: 65 %
-- Logging: 10 %
-- README: 10 %
+- Repositorio: 1.5 puntos
+- ¡¡A programar!!: 6.5 puntos
+- Logging: 1 punto
+- README: 1 punto
 
 ## El buen trabajo se recompensa
 
 <div align="center">
 
 | Rubro                 | Puntaje extra     |
-| --------------------- | ----------------- |
-| Cumplimiento 100%     | 9 participaciones |
-| ¡¡ A programar !!     | 7 participaciones | 
-| Consintiendo al profe | 6 participaciones |
-| Trabajo en equipo     | 10 participaciones|
-| Evidencia líderes     | 3 participaciones |
+| --------------------- | :---------------: |
+| Cumplimiento 100%     | 9  |
+| ¡¡ A programar !!     | 7  | 
+| Consintiendo al profe | 6  |
+| Trabajo en equipo     | 10 |
+| Evidencia líderes     | 3  |
  
  </div align="center">
 
 ### Notas
 
 - Para el tema del trabajo en equipo, deberán compartir evidencia y anécdotas de los retos que enfrentaron. 
-- Para la actividad de `¡¡A programar !!`, serán 7 participaciones para las personas que hayan participado en el desarrollo del script, no importando la función que hayan desarrollado. 
-- Para la actividad de `Consintiendo al profe` **sólo se darán participaciones a los miembros del equipo que hayan desarrollado esa función**, para lo cual se deberá adjuntar evidencia de su participación. 
-- Las participaciones son adicionales al score que tengan en el proyecto.  
+- Para la actividad de `¡¡A programar !!`, serán 7 puntos para las personas que hayan participado en el desarrollo del script, no importando la función que hayan desarrollado. 
+- Para la actividad de `Consintiendo al profe` **sólo se darán puntos a los miembros del equipo que hayan desarrollado esa función**, para lo cual se deberá adjuntar evidencia de su participación. 
+- Los puntos son adicionales al score que tengan en el proyecto.  
