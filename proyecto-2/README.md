@@ -101,7 +101,7 @@ Para este proyecto se evaluará de la siguiente forma:
 <div align="center">
 
 | Rubro                 | Puntaje extra     |
-| --------------------- | ----------------- |
+| --------------------- | :---------------: |
 | Cumplimiento 100%     | 3 |
 | Una aguja en un pajar | 7 | 
 | Creatividad           | 3 |
