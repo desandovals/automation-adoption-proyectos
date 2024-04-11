@@ -21,7 +21,7 @@ grupo-01-avengers
 
 ## 2. Dar permisos
 
-Asignar los usuarios que trabajarán en él, incluyendo los usuarios `desandovals`, `dfmonjarazf` y `eczepedah`
+Asignar los usuarios que trabajarán en él, incluyendo al usuario `desandovals`. 
 
 ## 3. Compartir el repositorio
 
