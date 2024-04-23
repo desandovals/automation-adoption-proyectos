@@ -28,7 +28,7 @@ Mi sugerencia es que el líder lo realice, pero puede hacerlo cualquier otro mie
 
 ## Una aguja en un pajar
 
-En el bucket `gs://crp-dev-cloudsrv-test-bkt20` se encuentra una carpeta de nombre `proyecto-2` y dentro existen alrededor de `3000 archivos`. 
+En el bucket `gs://sit-devops-training-bkt01` se encuentra una carpeta de nombre `proyecto-2` y dentro existen alrededor de `3000 archivos`. 
 
 Todos los archivos tienen un cierto patrón. **Todos excepto 1.**
 
