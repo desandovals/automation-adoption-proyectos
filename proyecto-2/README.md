@@ -10,7 +10,7 @@ Para el presente documento deberán crear un repositorio **privado** en GitHub, 
  
 #### Permisos
 
-Deberán añadir a todos los integrantes del equipo y al usuario `desandovals` y `dfmonjarazf`. Dado que será privado, no podrán verlo ni colaborar, hasta que no hayan aceptado la invitación para colaborar en el mismo. 
+Deberán añadir a todos los integrantes del equipo y al usuario `desandovals`. Dado que será privado, no podrán verlo ni colaborar, hasta que no hayan aceptado la invitación para colaborar en el mismo. 
 
 #### ¿Saben guardar un secreto? 
 
