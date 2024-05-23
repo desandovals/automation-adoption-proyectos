@@ -26,7 +26,7 @@ Como grupo, deberán designar **un único líder**, que será el responsable de 
 
 Deberán crear un programa, haciendo uso de variables, funciones, condicionales y ciclos, que realice lo siguiente: 
 
-1. Crear un bucket de GCS que tenga un rango de nombre del 04 al 07. Recuerden que no deben repetirse, por lo cual el líder tendrá que comunicarse con líderes de los otros 3 grupos para elegir cada uno el bucket que creará. 
+1. Crear un bucket de GCS que tenga un rango de nombre del 09 al 12. Recuerden que no deben repetirse, por lo cual el líder tendrá que comunicarse entre líderes de los dos grupos para elegir cada uno el bucket que creará. 
 
 **Nota:** Si adjuntan evidencia de la comunicación que hubo, los líderes serán acreedores a 3 participaciones adicionales. 
 
